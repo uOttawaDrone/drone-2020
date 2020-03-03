@@ -7,7 +7,10 @@ Group Members: RJ, Faiz
 * 3D Printing drone parts
 * Used cuda to convert .slt to .gcode file ext.
 * 0.8mm nozzle drone frame printing failed.
-* Using 0.6mm nozzle for printing, 
+* Using 0.6mm nozzle for printing
+
+* Successful print in-fill = 50%
+* Trying out 100% in-fill
 
 ## Next Steps
     
