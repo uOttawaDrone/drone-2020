@@ -1,5 +1,5 @@
 # open-cv
-Here you'll find any scripts related to the drone's computer vision
+Here you'll find any scripts or code related to the drone's computer vision
 
 **Make sure you install the environment before you run the code.**
 **You will need to install anaconda.**
