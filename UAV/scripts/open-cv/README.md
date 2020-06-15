@@ -11,4 +11,5 @@ activate opencv-env
 pip install -r requirements.txt
 ```
 **This will create the environment you need to point to in your text editor to run the scripts**
+
 gl
